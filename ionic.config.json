@@ -1,0 +1,7 @@
+{
+  "name": "reprod",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
