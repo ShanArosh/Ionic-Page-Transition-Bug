@@ -1,0 +1,30 @@
+.title {
+  display: flex;
+  font-weight: bold;
+  font-size: 34px;
+  padding: 0 16px 6px 16px;
+  margin: 0 0 1rem 0;
+}
+
+.bottom_fixed_wrap {
+  padding: 0 1rem;
+  display: block;
+  width: 100%;
+  position: fixed;
+  z-index: 999;
+  bottom: 0;
+  left: 0;
+}
+
+.bottom_text {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.forget_pass_text {
+  display: flex;
+  justify-content: right;
+  margin: 1rem 0;
+}
